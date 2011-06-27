@@ -1,5 +1,6 @@
 class PeopleController < ApplicationController
-  # GET /people
+ # Test for Ashish
+ # GET /people
   # GET /people.xml
   # GET /people.json
   def index
